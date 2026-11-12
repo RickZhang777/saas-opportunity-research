@@ -1,0 +1,4 @@
+interface:
+  display_name: "SaaS Opportunity Research"
+  short_description: "Evaluate early SaaS ideas with buyer evidence"
+  default_prompt: "Use $saas-opportunity-research to evaluate an early Web SaaS opportunity and propose one low-cost test."
